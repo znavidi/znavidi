@@ -1,3 +1,5 @@
+
+
 /******************************************
 IMPORT
 ******************************************/
@@ -1612,7 +1614,8 @@ TESTIMONIAL
 
 .testimonial p {
     font-style: italic;
-    margin-bottom: 0;
+    margin: 0;
+    text-align: center;
 }
 
 .testimonial p.testiname {
@@ -1620,7 +1623,6 @@ TESTIMONIAL
     font-size: 18px;
     display: block;
     padding-bottom: 0;
-    margin-left: 20px;
     margin-bottom: 20px;
     margin-top: 0px;
 }
